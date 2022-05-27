@@ -6,13 +6,14 @@ Abaixo segue as seguintes empresas/escolas das certificações:
 
 <hr>
 
-```dif
-- Alura (One Next Education)
-+ Coursera
-! Digital Innovation One
-Fundação Bradesco
-Instituto Federal do Rio Grande do Sul (IFRS)
-NewTab Academy
-School Of Net
-Udemy
-```
+<span style="color: red">
+  Alura (One Next Education)
+  Coursera
+  Digital Innovation One
+  Fundação Bradesco
+  Instituto Federal do Rio Grande do Sul (IFRS)
+  NewTab Academy
+  School Of Net
+  Udemy
+</span>
+
