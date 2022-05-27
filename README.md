@@ -7,10 +7,10 @@
 <hr>
 
 <p>🔸 Alura (One Next Education)</p>
-<p>🔸 Coursera</p>
+<p>🔹 Coursera</p>
 <p>🔸 Digital Innovation One</p>
-<p>🔸 Fundação Bradesco</p>
+<p>🔹 Fundação Bradesco</p>
 <p>🔸 Instituto Federal do Rio Grande do Sul (IFRS)</p>
-<p>🔸 NewTab Academy</p>
+<p>🔹 NewTab Academy</p>
 <p>🔸 School Of Net</p>
-<p>🔸 Udemy</p>
+<p>🔹 Udemy</p>
