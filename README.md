@@ -6,12 +6,16 @@
 
 <hr>
 
-<p>🔸 Alura (One Next Education)</p>
-<p>🔹 Coursera</p>
-<p>🔸 Digital Innovation One</p>
-<p>🔹 Fundação Bradesco</p>
-<p>🔸 Faculdade Estácio de Sá</p>
-<p>🔹 Instituto Federal do Rio Grande do Sul (IFRS)</p>
-<p>🔸 NewTab Academy</p>
-<p>🔹 School Of Net</p>
-<p>🔸 Udemy</p>
+<p>🔴 Alura</p>
+<p>🟠 Balta.Io</p>
+<p>🟡 Coursera</p>
+<p>🟢 Digital Innovation One (DIO)</p>
+<p>🔵 Faculdade Estácio de Sá</p>
+<p>🟣 FreeCodeCamp</p>
+<p>🟤 Fundação Bradesco</p>
+<p>⚫ Instituto Federal do Rio Grande do Sul (IFRS)</p>
+<p>⚪ newtab academy</p>
+<p>🔴 RL System</p>
+<p>🟠 School Of Net</p>
+<p>🟢 Udemy</p>
+<p>🔵 Zabbix Latam América</p>
